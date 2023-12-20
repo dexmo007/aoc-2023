@@ -16,6 +16,3 @@ with open('sample.txt') as f:
     for line in f:
         pass
 """)
-
-
-os.chdir(next_day)
